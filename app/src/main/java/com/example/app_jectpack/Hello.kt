@@ -1,4 +1,4 @@
-package com.example.app_jectpack.ui.theme
+package com.example.app_jectpack
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Text
