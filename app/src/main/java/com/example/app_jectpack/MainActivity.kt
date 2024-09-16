@@ -7,6 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
+import com.example.app_jectpack.learn_coban.Add_Image
 import com.example.app_jectpack.ui.theme.App_jectpackTheme
 
 class MainActivity : ComponentActivity() {
@@ -19,8 +20,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Hello()
-                    //Change 1
+//                    GreetingText()
+                    Add_Image()
                 }
             }
         }
